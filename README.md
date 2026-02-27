@@ -1,6 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uNTgnFHD)
-# Exam #1: "Game of Misfortune" (Unlucky Holidays)
-## Student: s341987 DOMIZIO MATTIA
+# Stuff Happens
+![Cover](cover.png)
+
+## Description
+"Stuff Happens" is a web-based card game where players test their luck by guessing the position of a new card in relation to three initial cards. Each card represents a bad luck event with a specific "bad luck index". The goal is to collect as many bad luck points as possible without losing all your points. The game features user authentication, allowing players to track their game history and results. This version of the game focus on "Unlucky Holidays" theme, with cards representing common travel mishaps.
 
 ## React Client Application Routes
 
